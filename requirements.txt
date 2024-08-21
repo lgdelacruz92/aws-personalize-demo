@@ -1,5 +1,3 @@
 boto3
 numpy
 pandas
-time
-datetime
