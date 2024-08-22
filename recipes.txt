@@ -1,0 +1,10 @@
+name: aws-vod-because-you-watched-x, arn: arn:aws:personalize:::recipe/aws-vod-because-you-watched-x
+
+name: aws-vod-more-like-x, arn: arn:aws:personalize:::recipe/aws-vod-more-like-x
+
+name: aws-vod-most-popular, arn: arn:aws:personalize:::recipe/aws-vod-most-popular
+
+name: aws-vod-top-picks, arn: arn:aws:personalize:::recipe/aws-vod-top-picks
+
+name: aws-vod-trending-now, arn: arn:aws:personalize:::recipe/aws-vod-trending-now
+
